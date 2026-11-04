@@ -1,0 +1,802 @@
+[
+  {
+    "ID": 16,
+    "Text": "gay hai tu? bro mat bol, mera koi bhai nahi tera",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Rejecting someone as a brother or friend because he is gay is unfair. Relationships should be based on trust and respect, not prejudice.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 18,
+    "Text": "me to gays: tum log sudharte kyun nahi?",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Gay people do not need to change to earn respect. Acceptance begins with treating them as ordinary people.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 23,
+    "Text": "book club mein लेस्बियन लड़कियां ka topic aate hi baaki girls ko privacy concern feel hota hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "book club mein discomfort ko rules aur respectful behaviour se handle kiya ja sakta hai. baaki girls ko privacy concern feel hota hai ko identity se jodna lesbian women ke liye fair nahi. Yahan baat book club mein लेस्बियन लड़कियां ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 29,
+    "Text": "lesbian ladki se milne ke baad: 'aapse milkar sadma laga'",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Meeting a lesbian woman should not be treated as a negative experience. Respectful behaviour matters even when someone is different from you.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 105,
+    "Text": "gay teacher se parents ko doubt hoga hi, bachchon ka matter hai boss",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Teacher safety training, conduct aur accountability se judge hoti hai. Sexual orientation ko suspicion ka reason banana prejudice hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 110,
+    "Text": "school reunion mein समलैंगिक महिलाएं dekh ke honestly girls group mein overthinking badh jaati hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Har person ko ek group stereotype se judge karna fair nahi. Law aur rights ka point dignity protect karna hai. Same-gender relationships bhi care aur commitment rakh sakte hain.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 120,
+    "Text": "LGBTQ+ supporters bas woke points ke liye comments karte hain",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Some support performative ho sakta hai, but allyship ka positive impact bhi real ho sakta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 156,
+    "Text": "प्राइड community ko criticism tolerate karna nahi aata",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Criticism aur demeaning language alag cheezein hain. Respectful criticism kisi bhi community ke saath possible hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 161,
+    "Text": "bi logon ke liye labels badalte rehte hain, serious discussion kaise ho",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Language evolve ho sakti hai, but people's experiences real rehte hain. Serious discussion respectful curiosity se possible hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 174,
+    "Text": "bi identity ka matlab hai person abhi settled nahi hai",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Bisexuality unsettled phase nahi hoti. Many bisexual people apni identity clearly samajhte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 181,
+    "Text": "आजकल बाइसेक्शुअल लोग पर सवाल करो तो लोग नाराज हो जाते हैं, खासकर ऑफिस पार्टी में।",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "परंपरा और सम्मान एक-दूसरे के विरोधी नहीं हैं। ऑफिस पार्टी में बातचीत शांत और मानवीय रखी जा सकती है। संदर्भ: ऑफिस पार्टी, बाइसेक्शुअल लोग, और चिंता: यह पहचान सुविधा के लिए इस्तेमाल होती लगती है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 193,
+    "Text": "बाइसेक्शुअल identity family ko samjhana impossible hai, isliye chup rehna better",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Family ko samay lag sakta hai, par silence hi only option nahi. Safe and gradual conversation bhi possible hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 225,
+    "Text": "lesbian colleague ke saath travel karne mein wife ko awkward feel hoga, obvious hai",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Trust individual relationship se aata hai, colleague ki identity se nahi. Professional travel ko suspicion se dekhna unfair hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 235,
+    "Text": "bi partner se shaadi karna risky hai, kab kis taraf mood change ho jaaye",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Attraction to more than one gender ka matlab unstable commitment nahi. Marriage trust aur communication par depend karti hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 243,
+    "Text": "campus placement mein gay colleague ho to log apna behaviour extra guard karte hain.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "School, office ya housing mein neutral rules zyada kaam aate hain. gay men ko bhi ordinary respect milna chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 278,
+    "Text": "college seminar mein LGBTQ+ topic rakhte hi log attendance ke liye nahi, drama ke liye aate hain",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Seminar ka topic kisi group ko drama banana nahi hota. Agar session well planned ho, students facts aur empathy dono seekh sakte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 279,
+    "Text": "lesbian colleague ke saath team dinner mein wives ko invite karna awkward ho jayega",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Awkwardness assumptions se aati hai. Team dinner professional and respectful ho to sab comfortable reh sakte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 295,
+    "Text": "gay friend ho to log automatically assume karte hain tum bhi waise ho",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Association se identity decide nahi hoti. Friendship ko stigma ke darr se avoid karna unfair hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 301,
+    "Text": "bi students ke liye awareness karna bas unnecessary label promotion hai",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Awareness label promotion nahi, stigma reduction ho sakti hai. Students ko respectful language samajhna useful hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 335,
+    "Text": "LGBTQ+ art exhibition dekh kar laga bas shock value sell kar rahe hain",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Art provocative ho sakta hai, but queer themes ko automatically shock value kehna dismissive hai. Work ko content ke basis par critique karein.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 356,
+    "Text": "Honestly gym locker area mein गे लड़के ko lekar log bolte nahi, par public space mein extra attention lete hain.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Concern discuss karna okay hai, lekin public space mein extra attention lete hain jaise assumptions poore group par chipak jaate hain. gay men ko individual behaviour se judge karna better hai. Yahan baat gym locker area mein गे लड़के ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 385,
+    "Text": "इतनी openness ke naam par metro station poster mein rainbow wale ko push karna mujhe sahi nahi lagta.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Family ya public discomfort real feel ho sakta hai, lekin school aur college mein unnecessary hype hota hai exclusion ka healthy answer nahi. Respectful language se tension kam ho sakti hai. Yahan baat metro station poster mein rainbow wale ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 415,
+    "Text": "दो महिलाओं की शादी अपनी निजी जिंदगी रखें, लेकिन बीमा नीति में सबको शामिल करना जरूरी नहीं।",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "समाज अभी इसके लिए तैयार नहीं है जैसी सोच अक्सर अनुभव की कमी से आती है। समलैंगिक जोड़े को व्यवहार के आधार पर समझना ज्यादा न्यायपूर्ण है। संदर्भ: बीमा नीति, दो महिलाओं की शादी, और चिंता: समाज अभी इसके लिए तैयार नहीं है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 461,
+    "Text": "career counselling room mein gay boys ki visibility thodi limit honi chahiye, warna team ka focus kaam se hat jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Disagreement allowed hai, par assumptions harmful ho sakte hain. gay men par team ka focus kaam se hat jaata hai apply karne se pehle lived experience sunna useful hai. Yahan baat career counselling room mein gay boys ke mention ki hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 462,
+    "Text": "उभयलिंगी लोग अपनी निजी जिंदगी रखें, लेकिन डेटिंग चर्चा में सबको शामिल करना जरूरी नहीं।",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "भरोसा करना मुश्किल लगता है जैसी सोच अक्सर अनुभव की कमी से आती है। बाइसेक्शुअल लोग को व्यवहार के आधार पर समझना ज्यादा न्यायपूर्ण है। संदर्भ: डेटिंग चर्चा, उभयलिंगी लोग, और चिंता: भरोसा करना मुश्किल लगता है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 530,
+    "Text": "लेस्बियन लड़कियां अपनी निजी जिंदगी रखें, लेकिन पीजी फ्लैट में सबको शामिल करना जरूरी नहीं।",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "लोग गपशप का नया विषय बना लेते हैं जैसी सोच अक्सर अनुभव की कमी से आती है। लेस्बियन महिलाएं को व्यवहार के आधार पर समझना ज्यादा न्यायपूर्ण है। संदर्भ: पीजी फ्लैट, लेस्बियन लड़कियां, और चिंता: लोग गपशप का नया विषय बना लेते हैं.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 550,
+    "Text": "birthday dinner mein लेस्बियन लड़कियां ka topic aate hi ladkiyon ki friendship par doubt aa jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "birthday dinner mein discomfort ko rules aur respectful behaviour se handle kiya ja sakta hai. ladkiyon ki friendship par doubt aa jaata hai ko identity se jodna lesbian women ke liye fair nahi. Yahan baat birthday dinner mein लेस्बियन लड़कियां ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 560,
+    "Text": "इतनी खुली सोच के नाम पर कानून की कक्षा में समलैंगिक विवाह को आगे करना मुझे सही नहीं लगता।",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "निजी पहचान को दोष देने से समाधान नहीं मिलता। कानून की कक्षा में स्पष्ट नियम और सम्मानजनक भाषा ज्यादा उपयोगी होगी। संदर्भ: कानून की कक्षा, समलैंगिक विवाह, और चिंता: कानूनी अधिकारों के नाम पर मूल्य नजरअंदाज होते हैं.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 573,
+    "Text": "Honestly college magazine mein लेस्बियन लड़कियां ko lekar log bolte nahi, par har close bond ko log label karne lagte hain.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Concern discuss karna okay hai, lekin har close bond ko log label karne lagte hain jaise assumptions poore group par chipak jaate hain. lesbian women ko individual behaviour se judge karna better hai. Yahan baat college magazine mein लेस्बियन लड़कियां ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 597,
+    "Text": "इतनी खुली सोच के नाम पर कैरियर सेमिनार में गे पुरुष को आगे करना मुझे सही नहीं लगता।",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "निजी पहचान को दोष देने से समाधान नहीं मिलता। कैरियर सेमिनार में स्पष्ट नियम और सम्मानजनक भाषा ज्यादा उपयोगी होगी। संदर्भ: कैरियर सेमिनार, गे पुरुष, और चिंता: सामान्य माहौल अजीब हो जाता है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 623,
+    "Text": "मेरे हिसाब से classroom poster में queer log wali discussion avoid karni chahiye, children ke saamne unnecessary confusion create hota hai.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Agar specific behaviour issue hai to usi par baat karein. children ke saamne unnecessary confusion create hota hai ko LGBTQ+ people ki identity se jodna unnecessary stigma create karta hai. Yahan baat classroom poster mein queer log ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 634,
+    "Text": "thoda limit hona chahiye, class presentation mein gay boys ki baat har kisi ko comfortable nahi karti.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Housing aur workplace decisions neutral rules par hone chahiye. Indian values mein insaniyat bhi aati hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 687,
+    "Text": "फिल्म पैनल का उद्देश्य कुछ और होता है, रेनबो वाले लोग की वजह से सार्वजनिक जगह को मंच बना देते हैं।",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "दिखाई देना दबाव डालना नहीं होता। कई लोगों के लिए यह सुरक्षा और स्वीकृति का संकेत होता है। संदर्भ: फिल्म पैनल, रेनबो वाले लोग, और चिंता: सार्वजनिक जगह को मंच बना देते हैं.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 688,
+    "Text": "temple marriage news mein दो लोगों की same-sex shaadi ki visibility thodi limit honi chahiye, warna society abhi ready nahi hai.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Disagreement allowed hai, par assumptions harmful ho sakte hain. same-sex couples par society abhi ready nahi hai apply karne se pehle lived experience sunna useful hai. Yahan baat temple marriage news mein दो लोगों की same-sex shaadi ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 707,
+    "Text": "इतनी खुली सोच के नाम पर कानून की कक्षा में समलैंगिक विवाह को आगे करना मुझे सही नहीं लगता।",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "निजी पहचान को दोष देने से समाधान नहीं मिलता। कानून की कक्षा में स्पष्ट नियम और सम्मानजनक भाषा ज्यादा उपयोगी होगी। संदर्भ: कानून की कक्षा, समलैंगिक विवाह, और चिंता: कानूनी अधिकारों के नाम पर मूल्य नजरअंदाज होते हैं.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 727,
+    "Text": "उभयलिंगी लोग अपनी निजी जिंदगी रखें, लेकिन डेटिंग चर्चा में सबको शामिल करना जरूरी नहीं।",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "भरोसा करना मुश्किल लगता है जैसी सोच अक्सर अनुभव की कमी से आती है। बाइसेक्शुअल लोग को व्यवहार के आधार पर समझना ज्यादा न्यायपूर्ण है। संदर्भ: डेटिंग चर्चा, उभयलिंगी लोग, और चिंता: भरोसा करना मुश्किल लगता है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 737,
+    "Text": "आजकल दो पुरुषों की शादी पर सवाल करो तो लोग नाराज हो जाते हैं, खासकर दत्तक ग्रहण सुनवाई में।",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "परंपरा और सम्मान एक-दूसरे के विरोधी नहीं हैं। दत्तक ग्रहण सुनवाई में बातचीत शांत और मानवीय रखी जा सकती है। संदर्भ: दत्तक ग्रहण सुनवाई, दो पुरुषों की शादी, और चिंता: बच्चों को समझाना मुश्किल होगा.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 745,
+    "Text": "startup interview mein गे लड़के dekh ke honestly boys ko awkward kar dete hain.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Safety concerns evidence se discuss honi chahiye. School safety sab students ka right hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 749,
+    "Text": "आजकल बाइसेक्शुअल लोग पर सवाल करो तो लोग नाराज हो जाते हैं, खासकर ऑफिस पार्टी में।",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "परंपरा और सम्मान एक-दूसरे के विरोधी नहीं हैं। ऑफिस पार्टी में बातचीत शांत और मानवीय रखी जा सकती है। संदर्भ: ऑफिस पार्टी, बाइसेक्शुअल लोग, और चिंता: यह पहचान सुविधा के लिए इस्तेमाल होती लगती है.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 760,
+    "Text": "simple baat hai, library corner mein lesbian dost ko lekar extra attention nahi chahiye.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Lesbian identity kisi friendship ko automatically suspicious nahi banati. Insult ke bina bhi disagreement rakha ja sakta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 778,
+    "Text": "marriage hall mein gay marriage ho to values ignore hoti hain.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Misinformation social distance badhata hai. Civil rights aur religious beliefs ko respectfully separate kiya ja sakta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 779,
+    "Text": "ab school staff room mein bhi समलैंगिक महिलाएं ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Indian values mein insaniyat bhi aati hai. Women's spaces consent, privacy aur clear rules se safe bante hain.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 796,
+    "Text": "thoda limit hona chahiye, alumni meet mein gay dost ki baat har kisi ko comfortable nahi karti.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Kisi group ko pehle se suspect karna unfair starting point hai. Panic se zyada useful calm dialogue hota hai. Gay hona kisi ko unsafe ya less decent nahi banata.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 801,
+    "Text": "public park gathering mein rainbow campaign wale dekh ke honestly normal people ko villain bana dete hain.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Empathy ka matlab agreement nahi, basic insaniyat hai. No one should be reduced to a punchline. Criticism better hota hai jab it targets actions, not identity.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 837,
+    "Text": "simple baat hai, school staff room mein lesbian student ko lekar extra attention nahi chahiye.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Trust behaviour se banta hai, label se nahi. Gossip kisi person ki worth decide nahi karta.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 840,
+    "Text": "library corner ka mahaul lesbian dost ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Social discomfort often unfamiliarity se aata hai. Respectful boundaries sabke liye same honi chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 887,
+    "Text": "ab public park mein bhi rainbow community ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Family values mein compassion bhi aa sakta hai. Insult ke bina bhi disagreement rakha ja sakta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 902,
+    "Text": "बाइसेक्शुअल लोग apni life rakhein, par online poll mein sabke saamne zaruri nahi.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Darr ya awkwardness ko facts se handle kiya ja sakta hai. Bisexual people ko data aur conversations mein erase karna unfair hai. online poll jaise spaces mein calm rules help karte hain.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 908,
+    "Text": "lesbian women ke chakkar mein cousin sleepover ka comfort kharab hota hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Family honour dignity se kamzor nahi hoti.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 931,
+    "Text": "rainbow wale ko music concert mein itna normalize karna over lagta hai.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Empathy ka matlab agreement nahi, basic insaniyat hai. Event management concern valid ho sakta hai, community ko insult karna nahi. Public spaces tab healthier bante hain jab sab safe feel karein.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 937,
+    "Text": "ab public road mein bhi प्राइड समुदाय ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Event management concern valid ho sakta hai, community ko insult karna nahi. Indian values mein insaniyat bhi aati hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 945,
+    "Text": "reel comments jaise space mein gay dost ko highlight karna unnecessary hai.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Sexual orientation se professionalism decide nahi hota. Facts aur empathy saath chal sakte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 961,
+    "Text": "ab classroom poster mein bhi LGBTQ+ community ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Family values mein compassion bhi aa sakta hai. Yeh assumption real people ko hurt karta hai. Fairness ka matlab equal chance and equal respect hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 995,
+    "Text": "gay dost se problem nahi bolenge to bhi campus placement mein normal dosti bhi suspicious lagne lagti hai.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Law aur rights ka point dignity protect karna hai. Sexual orientation se professionalism decide nahi hota.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1001,
+    "Text": "ऑफिस में समलैंगिक पुरुष खुलकर बोलें तो माहौल अजीब हो जाता है सच में यह बात 2 बार भी अजीब लगती है।",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Gay hona kisi ko unsafe ya less decent nahi banata. Concern rakhna allowed hai, par blame identity par nahi jaana chahiye. Clear boundaries sab par apply honi chahiye.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1011,
+    "Text": "startup interview mein गे लड़के dekh ke honestly boys ko awkward kar dete hain.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Safety concerns evidence se discuss honi chahiye. School safety sab students ka right hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1018,
+    "Text": "family lunch mein lesbian marriage dekh ke honestly rituals ka sense khatam ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Identity ko problem banana easy hai, lekin accurate nahi. Tradition conversation se adapt karti hai, vanish nahi hoti. family lunch jaise spaces mein calm rules help karte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1019,
+    "Text": "ab social media trend mein bhi rainbow wale ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Thoda sa perspective badalne se yeh less hostile ho sakta hai. Pride visibility many people ke liye safety and belonging ka signal hoti hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1021,
+    "Text": "parents ko pata chale ki panchayat chat mein gay marriage openly discuss ho raha hai to problem hogi.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Marriage ka core care, consent and responsibility hai. Concern rakhna allowed hai, par blame identity par nahi jaana chahiye. Panic se zyada useful calm dialogue hota hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1071,
+    "Text": "class presentation mein gay boys ho to locker room ka mahaul ajeeb lagta hai.",
+    "Category": "Homophobic",
+    "Target": "Gay Men",
+    "Counter Narrative": "Concern rakhna allowed hai, par blame identity par nahi jaana chahiye. Facts aur empathy saath chal sakte hain. Sexual orientation se professionalism decide nahi hota.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1097,
+    "Text": "parents ko pata chale ki NGO session mein समलैंगिक महिलाएं openly discuss ho raha hai to problem hogi.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Thoda sa perspective badalne se yeh less hostile ho sakta hai. Women's spaces consent, privacy aur clear rules se safe bante hain. Fairness ka matlab equal chance and equal respect hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1101,
+    "Text": "simple baat hai, family chat mein bisexual student ko lekar extra attention nahi chahiye.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Family chat mein bisexual student ko extra scrutiny dena stigma badhata hai. Trust honesty aur behaviour se banta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1114,
+    "Text": "ghar pe batao ki legal camp mein दो महिलाओं की शादी ka topic aaya, sab tension mein aa jayenge.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "ki legal camp mein same-sex couples ki dignity ignore karna fair nahi. Disagreement ho sakta hai, par insult zaruri nahi.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1154,
+    "Text": "college confession page mein bi dost dekh ke honestly family ko samjhana double difficult hota hai.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Darr ya awkwardness ko facts se handle kiya ja sakta hai. A person can be bisexual and still be loyal. Safety concerns evidence se discuss honi chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1159,
+    "Text": "district seminar ka mahaul LGBTQ supporters ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Respectful tone se difficult conversation bhi possible hoti hai. Indian values mein insaniyat bhi aati hai. Children ko age-appropriate respect samjhana harmful nahi.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1160,
+    "Text": "queer log ko support karna fashion ban gaya hai, parent meeting mein bhi wahi scene.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Children ko age-appropriate respect samjhana harmful nahi. Panic se zyada useful calm dialogue hota hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1164,
+    "Text": "school reunion mein समलैंगिक महिलाएं dekh ke honestly girls group mein overthinking badh jaati hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Har person ko ek group stereotype se judge karna fair nahi. Law aur rights ka point dignity protect karna hai. Same-gender relationships bhi care aur commitment rakh sakte hain.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1168,
+    "Text": "teacher meeting mein lesbian women ko lekar log bolte nahi, par room sharing ko log wrong angle se dekhte hain.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Family comfort important hai, lekin dignity bhi basic hai. Safety concerns evidence se discuss honi chahiye. Women's spaces consent, privacy aur clear rules se safe bante hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1194,
+    "Text": "newspaper comments mein same-sex marriage ko lekar log bolte nahi, par legal system aur confusing ho jaayega.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Civil rights aur religious beliefs ko respectfully separate kiya ja sakta hai. Individual conduct dekhna stereotypes repeat karne se better hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1199,
+    "Text": "pride activists ko bookstore event mein itna normalize karna over lagta hai.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Pride visibility many people ke liye safety and belonging ka signal hoti hai. Facts aur empathy saath chal sakte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1225,
+    "Text": "समलैंगिक विवाह से बच्चों को परिवार का सही अर्थ समझाना कठिन होगा।",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Same-sex couples bhi commitment and family care value kar sakte hain. Constitutional values dignity aur equality dono ki baat karti hain. Public spaces tab healthier bante hain jab sab safe feel karein.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1229,
+    "Text": "समलैंगिक महिलाएं ke chakkar mein family group ka comfort kharab hota hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Kisi group ko pehle se suspect karna unfair starting point hai. Same-gender relationships bhi care aur commitment rakh sakte hain. Thoda respect rakhne se conversation safer ho jaati hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1247,
+    "Text": "family lunch mein same-sex couple ka naam aate hi log lecture mode mein aa jaate hain.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Tradition conversation se adapt karti hai, vanish nahi hoti. Family lunch wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1266,
+    "Text": "public park gathering mein rainbow campaign wale dekh ke honestly normal people ko villain bana dete hain.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Empathy ka matlab agreement nahi, basic insaniyat hai. No one should be reduced to a punchline. Criticism better hota hai jab it targets actions, not identity.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1267,
+    "Text": "TV debate mein gay marriage dekh ke honestly religion ke against feel hota hai.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Public disagreement humane language mein bhi ho sakta hai. Tradition conversation se adapt karti hai, vanish nahi hoti. Insult ke bina bhi disagreement rakha ja sakta hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1270,
+    "Text": "समलैंगिक महिलाएं ke chakkar mein book club ka comfort kharab hota hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Same-gender relationships bhi care aur commitment rakh sakte hain. Book club wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1279,
+    "Text": "thoda limit hona chahiye, movie fan page mein bisexual log ki baat har kisi ko comfortable nahi karti.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Darr ya awkwardness ko facts se handle kiya ja sakta hai. Bisexuality commitment ki kami ka proof nahi hoti. Trust behaviour se banta hai, label se nahi.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1280,
+    "Text": "matrimonial site mein bi people ka naam aate hi log lecture mode mein aa jaate hain.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "No one should be reduced to a punchline. Relationship concerns individual actions par discuss hone chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1287,
+    "Text": "मेरे हिसाब से classroom poster में queer log wali discussion avoid karni chahiye, children ke saamne unnecessary confusion create hota hai.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Agar specific behaviour issue hai to usi par baat karein. children ke saamne unnecessary confusion create hota hai ko LGBTQ+ people ki identity se jodna unnecessary stigma create karta hai. Yahan baat classroom poster mein queer log ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1296,
+    "Text": "hostel gossip ka mahaul bi people ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Respectful tone se difficult conversation bhi possible hoti hai. bisexual people ko bhi ordinary respect milna chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1297,
+    "Text": "company homepage mein pride community ho to criticism sunte hi victim ban jaate hain.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Criticism better hota hai jab it targets actions, not identity. Company homepage wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1306,
+    "Text": "ab school staff room mein bhi समलैंगिक महिलाएं ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. Indian values mein insaniyat bhi aati hai. Women's spaces consent, privacy aur clear rules se safe bante hain.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1315,
+    "Text": "book club ka mahaul lesbian dost ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Gossip kisi person ki worth decide nahi karta. Specific behaviour issue ho to usi par baat honi chahiye. No one should be reduced to a punchline.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1320,
+    "Text": "street interview ka mahaul queer log ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Disagreement possible hai, par identity-based insult conversation ko weak banata hai. Yeh assumption real people ko hurt karta hai. Indian values mein insaniyat bhi aati hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1327,
+    "Text": "same-sex couple se problem nahi bolenge to bhi adoption hearing mein values ignore hoti hain.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Tradition conversation se adapt karti hai, vanish nahi hoti. Adoption hearing wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1338,
+    "Text": "dating app mein bisexual log dekh ke honestly shaadi ke liye red flag lagta hai.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Practical issue ho to usko calmly name karna better hai. Identity ko confusion kehna real experience ko dismiss karta hai. dating app jaise spaces mein calm rules help karte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1347,
+    "Text": "ab city parade mein bhi rainbow campaign wale ki baat hogi kya, thoda normal rehne do.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Criticism better hota hai jab it targets actions, not identity. City parade wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1351,
+    "Text": "lesbian student ke chakkar mein fashion reel ka comfort kharab hota hai.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Women's spaces consent, privacy aur clear rules se safe bante hain. Fashion reel wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1386,
+    "Text": "thoda limit hona chahiye, movie fan page mein bisexual log ki baat har kisi ko comfortable nahi karti.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Darr ya awkwardness ko facts se handle kiya ja sakta hai. Bisexuality commitment ki kami ka proof nahi hoti. Trust behaviour se banta hai, label se nahi.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1409,
+    "Text": "charity event ka mahaul rainbow wale ki wajah se awkward ho jaata hai.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Practical issue ho to usko calmly name karna better hai. Criticism better hota hai jab it targets actions, not identity. Basic dignity kisi approval ka wait nahi karti.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1412,
+    "Text": "street interview mein rainbow community ka naam aate hi log lecture mode mein aa jaate hain.",
+    "Category": "Homophobic",
+    "Target": "LGBTQ+ Community",
+    "Counter Narrative": "Aisi baat kisi ko isolated feel kara sakti hai. LGBTQ+ dignity foreign trend nahi, human issue hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1415,
+    "Text": "ghar pe batao ki family group mein lesbian girls ka topic aaya, sab tension mein aa jayenge.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Darr ya awkwardness ko facts se handle kiya ja sakta hai. Family honour dignity se kamzor nahi hoti.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1420,
+    "Text": "ghar pe batao ki radio debate mein दो पुरुषों की शादी ka topic aaya, sab tension mein aa jayenge.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Family comfort important hai, lekin dignity bhi basic hai. same-sex couples ko bhi ordinary respect milna chahiye.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1432,
+    "Text": "thoda limit hona chahiye, company homepage mein rainbow wale ki baat har kisi ko comfortable nahi karti.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Social discomfort often unfamiliarity se aata hai. Public space sabka hota hai when rules are followed. Fairness ka matlab equal chance and equal respect hai.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1443,
+    "Text": "mall event mein pride activists ko lekar log bolte nahi, par children ko yeh sab dekhna padta hai.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Kisi group ko pehle se suspect karna unfair starting point hai. Discomfort ke naam par dignity-based visibility erase karna fair nahi.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1467,
+    "Text": "college confession page mein bi people dekh ke honestly log isko fashionable label bana rahe hain.",
+    "Category": "Homophobic",
+    "Target": "Bisexual Individuals",
+    "Counter Narrative": "Respectful tone se difficult conversation bhi possible hoti hai. Bisexual people ko data aur conversations mein erase karna unfair hai. college confession page jaise spaces mein calm rules help karte hain.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1468,
+    "Text": "lesbian student apni life rakhein, par shopping mall mein sabke saamne zaruri nahi.",
+    "Category": "Homophobic",
+    "Target": "Lesbians",
+    "Counter Narrative": "Aise comments stigma ko normal bana dete hain. lesbian women ko bhi ordinary respect milna chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1483,
+    "Text": "इतनी openness ke naam par metro station poster mein rainbow wale ko push karna mujhe sahi nahi lagta.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Family ya public discomfort real feel ho sakta hai, lekin school aur college mein unnecessary hype hota hai exclusion ka healthy answer nahi. Respectful language se tension kam ho sakti hai. Yahan baat metro station poster mein rainbow wale ke mention ki hai.",
+    "script": "Devanagari Hindi"
+  },
+  {
+    "ID": 1516,
+    "Text": "same gender shaadi se problem nahi bolenge to bhi law college mein parents ki izzat ka kya hoga.",
+    "Category": "Homophobic",
+    "Target": "Same-sex Marriage",
+    "Counter Narrative": "Har person ko ek group stereotype se judge karna fair nahi. same-sex couples ko bhi ordinary respect milna chahiye.",
+    "script": "Romanized Hinglish"
+  },
+  {
+    "ID": 1527,
+    "Text": "प्राइड समुदाय ko college auditorium mein itna normalize karna over lagta hai.",
+    "Category": "Homophobic",
+    "Target": "Pride Community",
+    "Counter Narrative": "Brand tokenism criticize karna alag baat hai; pride ko fake kehna alag. College auditorium wali concern ko identity blame ki jagah policy se handle karo.",
+    "script": "Devanagari Hindi"
+  }
+]

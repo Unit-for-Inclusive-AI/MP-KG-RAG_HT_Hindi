@@ -1,0 +1,7 @@
+.venv-local-demo/
+local_mpkg_demo_index/
+local_mpkg_demo_history.sqlite3
+exports/
+index_build.log
+__pycache__/
+.pytest_cache/

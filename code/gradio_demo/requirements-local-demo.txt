@@ -1,0 +1,16 @@
+# Local Apple-silicon MP-KG-RAG Pipeline Lab (Python 3.11+ / macOS arm64).
+# Keep this environment separate from the CUDA production lock.
+gradio==6.26.0
+mlx-lm==0.31.3
+mlx==0.32.0
+sentence-transformers==6.0.1
+huggingface-hub==1.29.0
+numpy==2.2.6
+torch==2.8.0
+transformers==5.2.0
+tokenizers==0.22.1
+sentencepiece==0.2.0
+safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.3
+pytest==8.4.1

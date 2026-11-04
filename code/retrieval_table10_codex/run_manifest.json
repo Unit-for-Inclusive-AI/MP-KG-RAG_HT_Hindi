@@ -1,0 +1,115 @@
+{
+  "sample_seed": 42,
+  "sample_size": 100,
+  "sampling": "proportional script x target stratification, largest remainder, from 141 Homophobic rows of saved Test split",
+  "sample_sha256": "8555c694b880280fc151476f26359ae3d6467263ca52438f23be7f395fac7fce",
+  "index_manifest": {
+    "created_at": "2026-08-31T18:55:00.707+00:00",
+    "dimensions": {
+      "embedding": 1024
+    },
+    "generation_id": "20260831T184337874072Z-f068d13b",
+    "identity": {
+      "embedding_backend": "sentence_transformers.sentence_transformer.model.SentenceTransformer",
+      "embedding_dimension": 1024,
+      "embedding_model": "BAAI/bge-m3",
+      "embedding_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "evidence_source": "canonical_chunks.v2",
+      "extraction_adapter": "simple-claims-candidate-graph.v1",
+      "generation_id": "20260831T184337874072Z-f068d13b",
+      "reranker_backend": "sentence_transformers.cross_encoder.model.CrossEncoder",
+      "reranker_model": "BAAI/bge-reranker-v2-m3",
+      "reranker_revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+      "retrieval": {
+        "bm25_top_k": 12,
+        "dense_top_k": 12,
+        "graph_top_k": 8,
+        "hop_decay": 0.75,
+        "max_evidence": 5,
+        "max_hops": 2,
+        "minimum_authority": 0.6,
+        "minimum_dense_score": 0.25,
+        "minimum_graph_score": 0.0,
+        "minimum_rerank_probability": 0.55,
+        "rerank_top_k": 5,
+        "review_state_scores": {
+          "accepted": 1.0,
+          "reviewed": 0.85,
+          "unknown": 0.0
+        },
+        "rrf_weights": {
+          "bm25": 1.0,
+          "dense": 1.1,
+          "graph": 0.8
+        },
+        "weights": {
+          "authority": 0.8,
+          "extraction_confidence": 0.0,
+          "hop_decay": 0.6,
+          "modality": 0.4,
+          "polarity": 0.5,
+          "predicate": 1.0,
+          "query_entity": 2.0,
+          "review_state": 0.8,
+          "seed_score": 1.0,
+          "stance": 0.8
+        }
+      },
+      "source_hashes": {
+        "candidates": "2a3dfee0ceefa8d3f7a8af8980d48a15804c80ea73ecb06ba012d3a5ea786ac9",
+        "chunks": "a839514d9b79ff3fe31b92022211dbcde8b22ad133f900c3db7951dcc4dc810f",
+        "evidence_ledger": "5952675b5c5210a46bea1c2220c71eee7ebe86205632cb1d7e3f0c8b8584cce5",
+        "manifest": "4a315cb0dc9f2f7111149010ac60b77c54aee4379edf3a1c2587ef486a3ecc4b",
+        "semantic_extractions": "047f3c10dec3e0e5260a81dee8ccc4438da37903e82f2d6e0892b0cc2c7c03f0"
+      }
+    },
+    "index_path": "/Users/pika/Downloads/MP_KG_RAG_v2/local_mpkg_demo_index",
+    "model_revisions": {
+      "embedding": "5617a9f61b028005a4858fdac845db406aefb181",
+      "generator": "0e7ffd5c629ef7719d4cbc04069232580bfa9d9c",
+      "reranker": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e"
+    },
+    "readiness_warnings": [
+      {
+        "chunk_rows": 6431,
+        "code": "stale_evidence_ledger",
+        "ledger_rows": 6431,
+        "message": "evidence_ledger.json is stale or misaligned; canonical chunks.json is the retrieval/evidence source and ledger rows were not ingested",
+        "mismatches": {
+          "chunk_sha256": 954,
+          "document_uid": 6431,
+          "page": 0,
+          "source_id": 0,
+          "span_end": 1229,
+          "span_start": 275,
+          "text": 954
+        }
+      }
+    ],
+    "row_counts": {
+      "documents": 90,
+      "entities": 1416,
+      "evidence": 6431,
+      "graph_edges": 35485,
+      "mentions": 25697
+    },
+    "source_hashes": {
+      "candidates": "2a3dfee0ceefa8d3f7a8af8980d48a15804c80ea73ecb06ba012d3a5ea786ac9",
+      "chunks": "a839514d9b79ff3fe31b92022211dbcde8b22ad133f900c3db7951dcc4dc810f",
+      "evidence_ledger": "5952675b5c5210a46bea1c2220c71eee7ebe86205632cb1d7e3f0c8b8584cce5",
+      "manifest": "4a315cb0dc9f2f7111149010ac60b77c54aee4379edf3a1c2587ef486a3ecc4b",
+      "semantic_extractions": "047f3c10dec3e0e5260a81dee8ccc4438da37903e82f2d6e0892b0cc2c7c03f0"
+    }
+  },
+  "device": "mps",
+  "max_length": 512,
+  "threshold": 0.55,
+  "query": "Text + Target + Category, without LLM rewriting",
+  "ranking": "native BM25/dense, weighted RRF for hybrids; score native/fused top 5 for common threshold coverage",
+  "graph": "local mention graph, exact canonical-name linking; not paper structured claim graph",
+  "structured_claim_nodes": 0,
+  "graph_branch_post_count": 11,
+  "metrics_missing": "P@5, R@5 and nDCG@5 await real relevance grades",
+  "unique_annotation_pairs": 990,
+  "elapsed_seconds": 246.0938901901245
+}

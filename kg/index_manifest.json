@@ -1,0 +1,83 @@
+{
+  "created_at": "2026-10-19T15:25:56.478+00:00",
+  "dimensions": {
+    "embedding": 1024
+  },
+  "generation_id": "20261019T150029177399Z-374411c8",
+  "identity": {
+    "embedding_backend": "sentence_transformers.sentence_transformer.model.SentenceTransformer",
+    "embedding_dimension": 1024,
+    "embedding_model": "BAAI/bge-m3",
+    "embedding_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "evidence_source": "canonical_chunks.v2",
+    "extraction_adapter": "simple-claims-candidate-graph.v3",
+    "generation_id": "20261019T150029177399Z-374411c8",
+    "reranker_backend": "build-only:reranker-not-loaded",
+    "reranker_model": "BAAI/bge-reranker-v2-m3",
+    "reranker_revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+    "retrieval": {
+      "bm25_top_k": 12,
+      "dense_top_k": 12,
+      "graph_top_k": 8,
+      "hop_decay": 0.75,
+      "max_evidence": 5,
+      "max_hops": 2,
+      "minimum_authority": 0.6,
+      "minimum_dense_score": 0.25,
+      "minimum_graph_score": 0.0,
+      "minimum_rerank_probability": 0.55,
+      "rerank_top_k": 5,
+      "review_state_scores": {
+        "accepted": 1.0,
+        "reviewed": 0.85,
+        "unknown": 0.0
+      },
+      "rrf_weights": {
+        "bm25": 1.0,
+        "dense": 1.1,
+        "graph": 0.8
+      },
+      "weights": {
+        "authority": 0.8,
+        "extraction_confidence": 0.0,
+        "hop_decay": 0.6,
+        "modality": 0.4,
+        "polarity": 0.5,
+        "predicate": 1.0,
+        "query_entity": 2.0,
+        "review_state": 0.8,
+        "seed_score": 1.0,
+        "stance": 0.8
+      }
+    },
+    "source_hashes": {
+      "candidates": "6cf8697ba0ea6b9cd62e83ff0b9934e3389367ad8a86c1ab3bb0a724a0aab632",
+      "chunks": "2b3cc29d84f76c6f1dcab44ad724e3344b1ada306e828976512f5a7d233602e1",
+      "evidence_ledger": "1e647c7eba6032c790523e8574dfc7068cbe4a03fe482956ca4f4172dc185631",
+      "manifest": "2cd502bee15eab6030e3b74b5a83c39ae8bf3f96eab765b91a5c4f321329f55e",
+      "semantic_extractions": "e29aea75e873f7455b56f71dd807d1a4d29c97aac309914b392724ff884db1f9"
+    }
+  },
+  "index_path": "/Users/pika/Downloads/MP_KG_RAG_v2/source_refresh/rebuild_v2/scratch_index",
+  "model_revisions": {
+    "embedding": "5617a9f61b028005a4858fdac845db406aefb181",
+    "generator": "0e7ffd5c629ef7719d4cbc04069232580bfa9d9c",
+    "reranker": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e"
+  },
+  "readiness_warnings": [],
+  "row_counts": {
+    "claims": 14723,
+    "documents": 111,
+    "entities": 821,
+    "evidence": 8848,
+    "graph_edges": 29213,
+    "mentions": 4208
+  },
+  "source_hashes": {
+    "candidates": "6cf8697ba0ea6b9cd62e83ff0b9934e3389367ad8a86c1ab3bb0a724a0aab632",
+    "chunks": "2b3cc29d84f76c6f1dcab44ad724e3344b1ada306e828976512f5a7d233602e1",
+    "evidence_ledger": "1e647c7eba6032c790523e8574dfc7068cbe4a03fe482956ca4f4172dc185631",
+    "manifest": "2cd502bee15eab6030e3b74b5a83c39ae8bf3f96eab765b91a5c4f321329f55e",
+    "semantic_extractions": "e29aea75e873f7455b56f71dd807d1a4d29c97aac309914b392724ff884db1f9"
+  }
+}

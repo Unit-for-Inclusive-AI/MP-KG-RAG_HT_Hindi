@@ -1,0 +1,58 @@
+{
+  "project_root": "/teamspace/studios/this_studio/mp_kg_rag_production_1550",
+  "run_name": "qwen35_mp_kg_rag_v2_semantic",
+  "application_lock": "requirements-remote-vm.lock",
+  "server_lock": "requirements-vllm-server.lock",
+  "app_interpreter": "/teamspace/studios/this_studio/mp_kg_rag_production_1550/.bootstrap-venv/bin/python",
+  "server_interpreter": "/teamspace/studios/this_studio/mp_kg_rag_production_1550/.venv-vllm-server/bin/python",
+  "paths": {
+    "corpus_root": "cache/corpus",
+    "semantic_root": "cache/semantic",
+    "run_root": "runs",
+    "artifacts_root": "artifacts",
+    "server_run": "run/vllm",
+    "server_log": "logs/vllm-server.log",
+    "server_pid": "run/vllm/server.pid",
+    "kb25_pack": "input/MP_KG_RAG_KB_25_downloader_pack.zip",
+    "download_root": "cache/kb25-downloads"
+  },
+  "corpus": {
+    "pack": "input/MP_KG_RAG_KB_25_downloader_pack.zip",
+    "download_root": "cache/kb25-downloads",
+    "extraction": {
+      "parser": "pymupdf-1.26.5",
+      "page_aware": true,
+      "audit_policy": "kb25-pdf-signature-page-count-v1"
+    }
+  },
+  "semantic": {
+    "embedding_model": "BAAI/bge-m3",
+    "embedding_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "embedding_batch_size": 32,
+    "min_tokens": 500,
+    "max_tokens": 900,
+    "overlap_tokens": 100,
+    "max_chunks": 100000,
+    "minimum_score": 0.0,
+    "topic_terms": ["hate", "sogiesc", "lgbtq", "transgender"],
+    "controlled_terms": ["LGBTQ", "SOGIESC", "sexual orientation", "gender identity", "transgender", "homophobia", "transphobia"]
+  },
+  "model": {
+    "name": "Qwen/Qwen3.5-4B",
+    "revision": "3764fa359b9082ea5a1e4a5e3ac3aaf6e9671636",
+    "tokenizer_revision": "3764fa359b9082ea5a1e4a5e3ac3aaf6e9671636",
+    "quantization": "bitsandbytes-nf4-runtime-4bit",
+    "base_url": "http://127.0.0.1:8000/v1",
+    "concurrency": 8,
+    "timeout": 120
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8000,
+    "max_model_len": 4096,
+    "gpu_memory_utilization": 0.80
+  },
+  "dataset": {
+    "sheet": "Final_Dataset"
+  }
+}
